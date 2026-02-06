@@ -1,6 +1,6 @@
 # Retail Sales Dashboard (Power BI)
+ 📊 Project Overview
 
-📊 Project Overview
 This project is an interactive Retail Sales Dashboard created using Microsoft Power BI.
 Microsoft Excel was used for initial data cleaning and preparation, and Power BI was used for analysis and visualization.
 
